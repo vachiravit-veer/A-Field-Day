@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: c379d2fb431234af382b2ce286ca871b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PrintAble4U
+  fontNames:
+  - PrintAble4U
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 61d2efe5651e14809ba6279c0b7c29dc, type: 3}
+  - {fileID: 12800000, guid: 201e9eb683002415c8a733a3b136346e, type: 3}
+  - {fileID: 12800000, guid: 323449d7724594b0e80fcdf95971f28c, type: 3}
+  - {fileID: 12800000, guid: 5b432a989f7784534ada2ad5b7b545f4, type: 3}
+  - {fileID: 12800000, guid: 11389df8d849148a6a4c552841533976, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
